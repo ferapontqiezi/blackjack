@@ -8,7 +8,7 @@
 
 #### 安全
 
-![Security Status](https://s.murphysec.com/badge/ferapontqiezi/blackjack.svg)](https://www.murphysec.com/p/ferapontqiezi/blackjack)
+[![Security Status](https://s.murphysec.com/badge/ferapontqiezi/blackjack.svg)](https://www.murphysec.com/p/ferapontqiezi/blackjack)
 
 #### 设计
 
