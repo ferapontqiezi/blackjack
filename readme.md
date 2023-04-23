@@ -4,6 +4,8 @@
 
 一个类的拓展c++小游戏
 
+[![Security Status](https://s.murphysec.com/badge/ferapontqiezi/blackjack.svg)](https://www.murphysec.com/p/ferapontqiezi/blackjack)
+
 [blackjack百度百科](https://baike.baidu.com/item/black%20jack/8547846)
 
 #### 设计
